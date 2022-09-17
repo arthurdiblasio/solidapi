@@ -1,0 +1,1 @@
+Projeto iniciado para fins de estudo da implementação de SOLID em uma API NodeJS e typescript
